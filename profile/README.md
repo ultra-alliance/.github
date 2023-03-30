@@ -28,5 +28,11 @@
     </tr>
 <table>
 
+---
+
+<a href='https://github.com/ultra-alliance/.github/blob/main/README.md' target="_blank"><img alt='' src='https://img.shields.io/badge/More from the tech alliance-100000?style=for-the-badge&logo=&logoColor=3F3636&labelColor=FFFFFF&color=7A52D1'/></a>
+
+
+
 </span>
 

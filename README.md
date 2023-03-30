@@ -38,7 +38,7 @@ We welcome contributions from anyone who is interested in our ultra cool project
 ## Projects
 Here are some of the current projects that the Ultra Tech Alliance is working on:
 
-- [ultra-utilities](https://https://github.com/ultra-alliance/ultra-utilities): An open source JavaScript SDK for interacting with the Ultra Blockchain.
+- [ultra-utilities](https://https://github.com/ultra-alliance/ultra-utilities/blob/main): An open source JavaScript SDK for interacting with the Ultra Blockchain.
 
 We are always looking for new contributors to help us improve and expand these projects. If you have any ideas for new projects, please let us know!
 
