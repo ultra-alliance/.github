@@ -9,12 +9,19 @@
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-black?logo=telegram&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)](https://t.me/ultra_io)
+[![Telegram](https://img.shields.io/badge/Telegram-100000?logo=discord&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)](https://t.me/ultra_io)
 [![Twitter](https://img.shields.io/twitter/follow/ultra_io?logo=twitter&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)](https://twitter.com/@ultra_io)
 [![Discord](https://img.shields.io/badge/Discord-100000?logo=discord&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)](https://discord.com/invite/WfJCN6YbGk)
+
+
 <h3>
     Repositories Navigator
 </h3>
+
+
+<a href='https://github.com/ultra-alliance/.github/blob/main/README.md' target="_blank"><img alt='' src='https://img.shields.io/badge/About ᕫ Tech Alliance -100000?style=for-the-badge&logo=&logoColor=3F3636&labelColor=FFFFFF&color=7A52D1'/></a>
+
+
 
 <table align="center">
 <tr>
@@ -29,8 +36,6 @@
 <table>
 
 ---
-
-<a href='https://github.com/ultra-alliance/.github/blob/main/README.md' target="_blank"><img alt='' src='https://img.shields.io/badge/More from the tech alliance-100000?style=for-the-badge&logo=&logoColor=3F3636&labelColor=FFFFFF&color=7A52D1'/></a>
 
 
 
