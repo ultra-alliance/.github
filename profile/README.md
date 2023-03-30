@@ -9,9 +9,9 @@
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-black?logo=telegram&style=for-the-badge&labelColor=7A52D1&logoColor=white&color=7A52D1)](https://t.me/ultra_io)
-[![Twitter](https://img.shields.io/twitter/follow/ultra_io?logo=twitter&style=for-the-badge&labelColor=7A52D1&logoColor=white&color=7A52D1)](https://twitter.com/@ultra_io)
-[![Discord](https://img.shields.io/badge/Discord-100000?logo=discord&style=for-the-badge&labelColor=7A52D1&logoColor=white&color=7A52D1)](https://discord.com/invite/WfJCN6YbGk)
+[![Telegram](https://img.shields.io/badge/Telegram-black?logo=telegram&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)](https://t.me/ultra_io)
+[![Twitter](https://img.shields.io/twitter/follow/ultra_io?logo=twitter&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)](https://twitter.com/@ultra_io)
+[![Discord](https://img.shields.io/badge/Discord-100000?logo=discord&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)](https://discord.com/invite/WfJCN6YbGk)
 <h3>
     Repositories Navigator
 </h3>
