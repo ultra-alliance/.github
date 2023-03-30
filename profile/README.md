@@ -1,7 +1,7 @@
 <span align="center">
   <p align="center">
     <a href="https://docs.ultra.io/blockchain/#/">
-      <img alt="Ultra Tech alliance" src="../assets/uta-logo-purple.png" width="64">
+      <img alt="Ultra Tech alliance" src="https://github.com/ultra-alliance/.github/blob/main/assets/uta-logo-purple.png" width="64">
     </a>
   </p>
 
@@ -20,7 +20,7 @@
 <tr>
  <th>
       <a href="https://github.com/ultra-alliance/ultra-utilities/blob/main">
-        <img src="../assets/uta-utilities-purple.png" width="48">
+        <img src="https://github.com/ultra-alliance/.github/blob/main/assets/uta-utilities-purple.png" width="48">
         <br/>
         <b>ultra-utilities</b>
       </a>
