@@ -43,7 +43,7 @@ Here are some of the current projects that the Ultra Tech Alliance is working on
 We are always looking for new contributors to help us improve and expand these projects. If you have any ideas for new projects, please let us know!
 
 ## Community
-Join the Utra community on [Discord](https://discord.com/invite/WfJCN6YbGk) to connect with other developers, ask questions, and get involved in the conversation.
+Join the Ultra community on [Discord](https://discord.com/invite/WfJCN6YbGk) to connect with other developers, ask questions, and get involved in the conversation.
 
 ## License
 All of our projects are licensed under the MIT License.
