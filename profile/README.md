@@ -55,7 +55,7 @@ The **Ultra Tech Alliance** is a collaborative community of developers, engineer
 
 ### 🚀 **ultra-utilities** - The Ultimate Ultra SDK
 
-<a href="https://github.com/ultra-alliance/ultra-utilities/blob/main">
+<a href="https://github.com/ultra-alliance/ultra-utilities">
   <img src="https://github.com/ultra-alliance/.github/blob/main/assets/uta-utilities-purple.png" width="64" alt="ultra-utilities">
 </a>
 
@@ -65,7 +65,67 @@ The **Ultra Tech Alliance** is a collaborative community of developers, engineer
 [![GitHub forks](https://img.shields.io/github/forks/ultra-alliance/ultra-utilities?style=social)](https://github.com/ultra-alliance/ultra-utilities)
 [![GitHub issues](https://img.shields.io/github/issues/ultra-alliance/ultra-utilities)](https://github.com/ultra-alliance/ultra-utilities/issues)
 
---
+---
+
+### 🌟 **UltraTechJourney** - Your Ultra Development Journey
+
+<a href="https://github.com/ultra-alliance/UltraTechJourney">
+  <img src="https://img.shields.io/badge/UltraTechJourney-7A52D1?style=for-the-badge&logo=github&logoColor=white" alt="UltraTechJourney">
+</a>
+
+**Comprehensive guide and resources for your Ultra development journey**
+
+[![GitHub stars](https://img.shields.io/github/stars/ultra-alliance/UltraTechJourney?style=social)](https://github.com/ultra-alliance/UltraTechJourney)
+[![GitHub forks](https://img.shields.io/github/forks/ultra-alliance/UltraTechJourney?style=social)](https://github.com/ultra-alliance/UltraTechJourney)
+[![GitHub issues](https://img.shields.io/github/issues/ultra-alliance/UltraTechJourney)](https://github.com/ultra-alliance/UltraTechJourney/issues)
+
+---
+
+### 🎓 **Workshops** - Learn Ultra Development
+
+<a href="https://github.com/ultra-alliance/Workshops">
+  <img src="https://img.shields.io/badge/Workshops-7A52D1?style=for-the-badge&logo=github&logoColor=white" alt="Workshops">
+</a>
+
+**Interactive workshops and learning materials for Ultra development**
+
+[![GitHub stars](https://img.shields.io/github/stars/ultra-alliance/Workshops?style=social)](https://github.com/ultra-alliance/Workshops)
+[![GitHub forks](https://img.shields.io/github/forks/ultra-alliance/Workshops?style=social)](https://github.com/ultra-alliance/Workshops)
+[![GitHub issues](https://img.shields.io/github/issues/ultra-alliance/Workshops)](https://github.com/ultra-alliance/Workshops/issues)
+
+</div>
+
+---
+
+## 🔍 Explore Our Projects
+
+<div align="center">
+
+### 🛠️ **Core Development Tools**
+- **[ultra-utilities](https://github.com/ultra-alliance/ultra-utilities)** - Essential utilities for Ultra development
+
+### 🌟 **Learning & Resources**
+- **[UltraTechJourney](https://github.com/ultra-alliance/UltraTechJourney)** - Your complete Ultra development journey
+- **[Workshops](https://github.com/ultra-alliance/Workshops)** - Interactive workshops and learning materials
+- **[Documentation](https://developers.ultra.io/)** - Comprehensive guides and tutorials
+- **[Discord Community](https://discord.gg/f6jAEzP8Dm)** - Connect with developers
+
+</div>
+
+---
+
+## 📊 Organization Statistics
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/ultra-alliance?style=social)
+![GitHub total stars](https://img.shields.io/github/stars/ultra-alliance?style=social)
+![GitHub total forks](https://img.shields.io/github/forks/ultra-alliance?style=social)
+![GitHub total repositories](https://img.shields.io/badge/Repositories-3+-blue?style=flat-square)
+
+</div>
+
+---
 
 ## 🌟 Why Choose Ultra Tech Alliance?
 
@@ -75,6 +135,8 @@ The **Ultra Tech Alliance** is a collaborative community of developers, engineer
 - **🎯 Real Impact** - Your contributions help build the decentralized future
 - **🌍 Global Network** - Developers from around the world
 - **💡 Innovation First** - Always pushing the boundaries of what's possible
+- **🛠️ Comprehensive Tools** - From utilities to learning resources
+- **📖 Active Documentation** - Extensive guides and examples
 
 ---
 
