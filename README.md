@@ -56,7 +56,7 @@ The **Ultra Tech Alliance** is a collaborative community of developers, engineer
 - Basic knowledge of **JavaScript/TypeScript**
 - Understanding of **blockchain concepts**
 
-### ⚡ Quick Start Guide
+### ⚡ Quick Start Guide (To test Ultra Utilities)
 1. **Clone our repositories**
    ```bash
    git clone https://github.com/ultra-alliance/ultra-utilities.git
@@ -79,13 +79,11 @@ The **Ultra Tech Alliance** is a collaborative community of developers, engineer
 4. **Join our community**
    - [Discord Server](https://discord.gg/f6jAEzP8Dm)
    - [Documentation](https://developers.ultra.io/)
-   - [GitHub Discussions](https://github.com/ultra-alliance/.github/discussions)
 
 ### 📚 Learning Resources
 - **Official Documentation**: [developers.ultra.io](https://developers.ultra.io/)
-- **Video Tutorials**: [Ultra YouTube Channel](https://www.youtube.com/@Ultra)
 - **Community Forums**: [Discord Community](https://discord.gg/f6jAEzP8Dm)
-- **API Reference**: [Ultra API Docs](https://developers.ultra.io/api)
+- **API Reference**: [Ultra API Docs](https://developers.ultra.io/products/chain-api/)
 
 ### 🛠️ Development Environment Setup
 ```bash

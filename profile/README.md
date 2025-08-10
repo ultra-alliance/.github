@@ -79,7 +79,7 @@ The **Ultra Tech Alliance** is a collaborative community of developers, engineer
 [![GitHub forks](https://img.shields.io/github/forks/ultra-alliance/Workshops?style=social)](https://github.com/ultra-alliance/Workshops)
 [![GitHub issues](https://img.shields.io/github/issues/ultra-alliance/Workshops)](https://github.com/ultra-alliance/Workshops/issues)
 
-</div>
+
 
 ---
 
@@ -95,6 +95,7 @@ The **Ultra Tech Alliance** is a collaborative community of developers, engineer
 [![GitHub forks](https://img.shields.io/github/forks/ultra-alliance/ultra-utilities?style=social)](https://github.com/ultra-alliance/ultra-utilities)
 [![GitHub issues](https://img.shields.io/github/issues/ultra-alliance/ultra-utilities)](https://github.com/ultra-alliance/ultra-utilities/issues)
 
+</div>
 ---
 
 ## 📊 Organization Statistics
