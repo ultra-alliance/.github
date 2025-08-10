@@ -29,7 +29,7 @@ The **Ultra Tech Alliance** is a collaborative community of developers, engineer
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/f6jAEzP8Dm)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ultra_TimesEN)
+[![Twitter](https://img.shields.io/badge/X-(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ultra_TimesEN)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ultra-alliance)
 [![Documentation](https://img.shields.io/badge/Documentation-7A52D1?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://developers.ultra.io/)
 
@@ -52,20 +52,6 @@ The **Ultra Tech Alliance** is a collaborative community of developers, engineer
 ## 📚 Featured Repositories
 
 <div align="center">
-
-### 🚀 **ultra-utilities** - The Ultimate Ultra SDK
-
-<a href="https://github.com/ultra-alliance/ultra-utilities">
-  <img src="https://github.com/ultra-alliance/.github/blob/main/assets/uta-utilities-purple.png" width="64" alt="ultra-utilities">
-</a>
-
-**Open-source JavaScript SDK for Ultra Blockchain interaction**
-
-[![GitHub stars](https://img.shields.io/github/stars/ultra-alliance/ultra-utilities?style=social)](https://github.com/ultra-alliance/ultra-utilities)
-[![GitHub forks](https://img.shields.io/github/forks/ultra-alliance/ultra-utilities?style=social)](https://github.com/ultra-alliance/ultra-utilities)
-[![GitHub issues](https://img.shields.io/github/issues/ultra-alliance/ultra-utilities)](https://github.com/ultra-alliance/ultra-utilities/issues)
-
----
 
 ### 🌟 **UltraTechJourney** - Your Ultra Development Journey
 
@@ -97,20 +83,17 @@ The **Ultra Tech Alliance** is a collaborative community of developers, engineer
 
 ---
 
-## 🔍 Explore Our Projects
+### 🚀 **ultra-utilities** - The Ultimate Ultra SDK
 
-<div align="center">
+<a href="https://github.com/ultra-alliance/ultra-utilities">
+  <img src="https://github.com/ultra-alliance/.github/blob/main/assets/uta-utilities-purple.png" width="64" alt="ultra-utilities">
+</a>
 
-### 🛠️ **Core Development Tools**
-- **[ultra-utilities](https://github.com/ultra-alliance/ultra-utilities)** - Essential utilities for Ultra development
+**Open-source JavaScript SDK for Ultra Blockchain interaction**
 
-### 🌟 **Learning & Resources**
-- **[UltraTechJourney](https://github.com/ultra-alliance/UltraTechJourney)** - Your complete Ultra development journey
-- **[Workshops](https://github.com/ultra-alliance/Workshops)** - Interactive workshops and learning materials
-- **[Documentation](https://developers.ultra.io/)** - Comprehensive guides and tutorials
-- **[Discord Community](https://discord.gg/f6jAEzP8Dm)** - Connect with developers
-
-</div>
+[![GitHub stars](https://img.shields.io/github/stars/ultra-alliance/ultra-utilities?style=social)](https://github.com/ultra-alliance/ultra-utilities)
+[![GitHub forks](https://img.shields.io/github/forks/ultra-alliance/ultra-utilities?style=social)](https://github.com/ultra-alliance/ultra-utilities)
+[![GitHub issues](https://img.shields.io/github/issues/ultra-alliance/ultra-utilities)](https://github.com/ultra-alliance/ultra-utilities/issues)
 
 ---
 
@@ -120,8 +103,6 @@ The **Ultra Tech Alliance** is a collaborative community of developers, engineer
 
 ![GitHub followers](https://img.shields.io/github/followers/ultra-alliance?style=social)
 ![GitHub total stars](https://img.shields.io/github/stars/ultra-alliance?style=social)
-![GitHub total forks](https://img.shields.io/github/forks/ultra-alliance?style=social)
-![GitHub total repositories](https://img.shields.io/badge/Repositories-3+-blue?style=flat-square)
 
 </div>
 
