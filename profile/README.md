@@ -1,6 +1,6 @@
 <span align="center">
   <p align="center">
-    <a href="https://docs.ultra.io/blockchain/#/">
+    <a href="https://discord.gg/f6jAEzP8Dm">
       <img alt="Ultra Tech alliance" src="https://github.com/ultra-alliance/.github/blob/main/assets/uta-logo-purple.png" width="64">
     </a>
   </p>
@@ -9,9 +9,9 @@
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-100000?logo=discord&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)](https://t.me/ultra_io)
-[![Twitter](https://img.shields.io/twitter/follow/ultra_io?logo=twitter&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)](https://twitter.com/@ultra_io)
-[![Discord](https://img.shields.io/badge/Discord-100000?logo=discord&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)](https://discord.com/invite/WfJCN6YbGk)
+[//]: # [![Telegram](https://img.shields.io/badge/Telegram-100000?logo=discord&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)](https://t.me/ultra_io)
+[![Twitter](https://img.shields.io/twitter/follow/Ultra_Times?logo=twitter&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)]((https://x.com/Ultra_TimesEN))
+[![Discord](https://img.shields.io/badge/Discord-100000?logo=discord&style=for-the-badge&labelColor=3C3846&logoColor=white&color=3C3846)](https://discord.gg/f6jAEzP8Dm))
 
 
 <h3>
